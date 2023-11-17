@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Launacloud.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T05:37:40.599Z</updated>
+    <updated>2023-11-17T17:37:46.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[dwarf pufferfish (Wikipedia — did you know?)]]></title>
@@ -58,7 +58,7 @@
         <id>https://en.wikipedia.org/wiki/Saikabo</id>
         <link href="https://en.wikipedia.org/wiki/Saikabo"/>
         <updated>2023-11-17T05:37:35.712Z</updated>
-        <content type="html"><![CDATA[... that the Korean restaurant in Japan <b><a href="/wiki/Saikabo" title="Saikabo">Saikabo</a></b> suffered a 30% drop in sales after the South Korean president visited the disputed <a href="/wiki/Liancourt_Rocks" title="Liancourt Rocks">Liancourt Rocks</a>?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Saikabo" title="Saikabo">Saikabo</a></b> Korean restaurant chain in Japan suffered a 30% drop in sales after the South Korean president visited the disputed <a href="/wiki/Liancourt_Rocks" title="Liancourt Rocks">Liancourt Rocks</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Punta Arenas (Wikivoyage recommendations)]]></title>
